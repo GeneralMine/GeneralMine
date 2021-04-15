@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Stats
+## My Stats
 
 <div style="display: flex; flex-direction: row">
 
