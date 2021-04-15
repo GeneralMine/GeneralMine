@@ -18,7 +18,7 @@
 <div style="display: flex; flex-direction: row">
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeneralMine&count_private=true&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeneralMine&count_private=true&show_icons=true&theme=tokyonight&hide=stars" />
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralMine&count_private=true&layout=compact&theme=tokyonight" />
