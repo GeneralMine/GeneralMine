@@ -22,5 +22,8 @@
 </div>
 
 <!---
+From
+https://github.com/jstrieb/github-stats
+
 https://github.com/anuraghazra/github-readme-stats
 --->
