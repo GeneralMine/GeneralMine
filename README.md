@@ -5,9 +5,9 @@
 <div style="display: flex; flex-direction: row">
 
 
-![GeneralMine's GitHub overview](https://github.com/GeneralMine/GeneralMine/blob/main/generated/overview.svg)
+![GeneralMine's GitHub overview](https://github.com/GeneralMine/GeneralMine/blob/master/generated/overview.svg)
 
-![GeneralMine's GitHub languages](https://github.com/GeneralMine/GeneralMine/blob/main/generated/languages.svg)
+![GeneralMine's GitHub languages](https://github.com/GeneralMine/GeneralMine/blob/master/generated/languages.svg)
 
 </div>
 
