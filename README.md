@@ -8,12 +8,12 @@
   <img align="center" src="https://github.com/GeneralMine/GeneralMine/blob/master/generated/overview.svg" />
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeneralMine&count_private=true&show_icons=true&theme=tokyonight&hide=stars&hide_border=true&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeneralMine&count_private=true&show_icons=true&theme=tokyonight&hide=stars&hide_border=true&hide_title=true&hide_rank=true" />
 </a>
 
 </div>
 
-## old
+## My Languages
 
 <div style="display: flex; flex-direction: row">
 
