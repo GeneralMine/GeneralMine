@@ -4,12 +4,12 @@
 
 <div style="display: flex; flex-direction: row">
 
-<div>
+<a>
   <img align="center" src="https://github.com/GeneralMine/GeneralMine/blob/master/generated/overview.svg" />
-</div>
-<div>
+</a>
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeneralMine&count_private=true&show_icons=true&theme=tokyonight&hide=stars&hide_border=true&hide_title=true&hide_rank=true" />
-</div>
+</a>
 
 </div>
 
@@ -17,12 +17,12 @@
 
 <div style="display: flex; flex-direction: row">
 
-<div>
+<a>
   <img align="center" src="https://github.com/GeneralMine/GeneralMine/blob/master/generated/languages.svg" />
-</div>
-<div>
+</a>
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralMine&count_private=true&layout=compact&theme=tokyonight&langs_count=6&hide_border=true&hide_title=true" />
-</div>
+</a>
 
 </div>
 
