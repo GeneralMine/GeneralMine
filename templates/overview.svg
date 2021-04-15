@@ -64,7 +64,6 @@ tr {
 
 <table>
 <thead><tr style="transform: translateX(0);">
-<th colspan="2">{{ name }}'s Statistics</th>
 </tr></thead>
 <tbody>
 
