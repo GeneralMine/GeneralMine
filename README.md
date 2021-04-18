@@ -26,6 +26,7 @@
 
 </div>
 
+I'm currently experimenting with this new profile readme feature and some web apps using svelte ;)
 <!---
 More to add in the future:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-s-a76b741b0/)
