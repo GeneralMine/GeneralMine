@@ -34,6 +34,7 @@ More to add in the future:
 From
 https://github.com/jstrieb/github-stats
 
+and
 https://github.com/anuraghazra/github-readme-stats
 hiding c++ and c# in old languages: &hide=c%2B%2B,c%23
 --->
