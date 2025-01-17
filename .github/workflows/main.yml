@@ -60,8 +60,8 @@ jobs:
     # Commits all changed files to the repository
     - name: Commit to the repo
       run: |
-        git config --global user.name "GeneralMine"
-        git config --global user.email "marvin_raiser@web.de"
+        git config --global user.name "MarvinBot"
+        git config --global user.email "bot@marvin.raiser.dev"
         git add .
         # "echo" returns true so the build succeeds, even if no changed files
         git commit -m 'Update generated files' || echo
